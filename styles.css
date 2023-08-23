@@ -1,7 +1,9 @@
-body, header, main, footer {
+html, body, header, main, footer {
+    min-width: fit-content;
+    box-sizing: border-box;
+    border: 0;
     margin: 0;
     padding: 0;
-    width: 100%;
     font-family: 'Courier New', Courier, monospace;
 }
 
