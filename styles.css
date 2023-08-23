@@ -10,5 +10,11 @@ main {
 }
 
 #logo {
+    width: auto;
     max-width: 120px;
+}
+
+.strip {
+    width: auto;
+    max-width: 400px;
 }
