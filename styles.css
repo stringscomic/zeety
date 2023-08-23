@@ -32,4 +32,5 @@ footer {
 .strip {
     width: auto;
     max-width: 400px;
+    padding: 0 10px;
 }
