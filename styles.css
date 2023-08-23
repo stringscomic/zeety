@@ -1,26 +1,25 @@
-body {
-    text-align: center;
+body, header, main, footer {
     margin: 0;
     padding: 0;
+}
+
+body {
+    text-align: center;
 }
 
 header {
     border-bottom: 2px solid #000;
 }
 
-main {}
-
 footer {
     border-top: 2px solid #000;
 }
 
 #logo {
-    width: auto;
     max-width: 120px;
 }
 
 .strip {
     margin: auto;
-    width: 100%;
     max-width: 400px;
 }
