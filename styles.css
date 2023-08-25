@@ -18,11 +18,11 @@ body {
 }
 
 header {
-    border-bottom: 2px solid #000;
+    border-bottom: 5px solid #000;
 }
 
 footer {
-    border-top: 2px solid #000;
+    border-top: 5px solid #000;
 }
 
 #logo {
@@ -31,7 +31,7 @@ footer {
 
 article {
     padding: 0 10px;
-    border-bottom: 1px solid #ccc
+    border-bottom: 1px solid #000
 }
 article:last-of-type {
     border-bottom: 0;
